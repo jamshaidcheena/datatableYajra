@@ -11,7 +11,6 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="https://cdn.datatables.net/1.11.4/js/dataTables.bootstrap5.min.js"></script>
 
-
     <!-- https://www.webslesson.info/2023/06/laravel-10-tutorial-ajax-based-date-range-filtering-with-yajra-datatables.html -->
 
 <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.7.1/js/dataTables.buttons.min.js"></script>
@@ -28,7 +27,7 @@
         <div class="card">
             <div class="card-header">
                 <div class="row">
-                    <div class="col col-9"><b>All User</b></div>
+                    <div class="col col-9"><b>All User Data</b></div>
                     <div class="col col-3">
                         
                     </div>
