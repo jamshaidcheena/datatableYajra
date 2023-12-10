@@ -73,8 +73,6 @@ class ProfileController extends Controller
                 $btn = '<button class="btn btn-info btn-sm">View</button>';
                 $btn .= ' <button class="btn btn-success btn-sm">Edit</button>';
                 $btn .= ' <button class="btn btn-danger btn-sm">Delete</button>';
-                // Add more buttons as needed (e.g., print, excel, pdf)
-
                 return $btn;
             })
             ->rawColumns(['action'])
